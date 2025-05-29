@@ -4,7 +4,7 @@ undercat's algorithm template
 my account:
 
 
-[codeforces1](https://atcoder.jp/users/chronicle12345?lang=en)
+[codeforces1](https://codeforces.com/profile/undercat)
 
 [codeforces2](https://codeforces.com/profile/_loser_)
 
