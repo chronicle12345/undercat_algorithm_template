@@ -10,6 +10,6 @@ my account:
 
 [atcoder](https://atcoder.jp/users/chronicle12345?lang=en)
 
-[leecode](https://leetcode.cn/u/zhendecaigou/)
+[leetcode](https://leetcode.cn/u/zhendecaigou/)
 
 [nowcoder](https://ac.nowcoder.com/acm/contest/profile/138766644)
